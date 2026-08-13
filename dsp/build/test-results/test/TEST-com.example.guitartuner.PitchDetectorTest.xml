@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.guitartuner.PitchDetectorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-08-13T06:13:33" hostname="PC-20251101AMPR" time="0.201">
+<testsuite name="com.example.guitartuner.PitchDetectorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-08-13T10:42:46" hostname="PC-20251101AMPR" time="0.407">
   <properties/>
-  <testcase name="detects frequency offset of 3 cents sharp()" classname="com.example.guitartuner.PitchDetectorTest" time="0.058"/>
-  <testcase name="silence frame returns null()" classname="com.example.guitartuner.PitchDetectorTest" time="0.037"/>
-  <testcase name="note mapping for low E2()" classname="com.example.guitartuner.PitchDetectorTest" time="0.002"/>
+  <testcase name="detects frequency offset of 3 cents sharp()" classname="com.example.guitartuner.PitchDetectorTest" time="0.173"/>
+  <testcase name="silence frame returns null()" classname="com.example.guitartuner.PitchDetectorTest" time="0.01"/>
+  <testcase name="note mapping for low E2()" classname="com.example.guitartuner.PitchDetectorTest" time="0.003"/>
   <testcase name="note mapping for A4()" classname="com.example.guitartuner.PitchDetectorTest" time="0.001"/>
-  <testcase name="detects all 30 notes across 6 tunings within 1 cent()" classname="com.example.guitartuner.PitchDetectorTest" time="0.095"/>
+  <testcase name="detects all 30 notes across 6 tunings within 1 cent()" classname="com.example.guitartuner.PitchDetectorTest" time="0.204"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

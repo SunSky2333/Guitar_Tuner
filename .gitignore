@@ -1,0 +1,10 @@
+.gradle/
+.gradle-fresh/
+build/
+fresh-build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+.DS_Store

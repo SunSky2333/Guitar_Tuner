@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew.bat :dsp:build)",
+      "Bash(./gradlew.bat :dsp:verifyReport)",
+      "Bash(./gradlew.bat :dsp:test --tests \"com.example.guitartuner.PitchDetectorTest\")",
+      "Bash(./gradlew.bat :dsp:test --tests \"com.example.guitartuner.PitchDetectorTest.detects frequency offset of 3 cents sharp\")"
+    ]
+  }
+}
